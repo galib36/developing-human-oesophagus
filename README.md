@@ -1,2 +1,2 @@
 # Developing human-oesophagus
-This repository holds analysis notebooks for the paper, The metaplastic precursor state to oesophageal adenocarcinoma shares resembles transient epithelial cell 3 populations in the developing human oesophagus
+This repository holds analysis notebooks for the paper, Metaplastic Barrett’s oesophagus represents reversion to a developmental-like epithelial cell state
